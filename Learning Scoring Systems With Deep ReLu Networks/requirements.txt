@@ -1,0 +1,12 @@
+pip
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+deeplift
+RR_utils
+openpyxl
+sklearn
+scipy
+tensorflow
