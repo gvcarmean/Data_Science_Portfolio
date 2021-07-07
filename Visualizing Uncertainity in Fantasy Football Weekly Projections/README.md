@@ -1,21 +1,24 @@
-# Data_Science_Portfolio
-These are projects i completed while pursuing my Masters of Science in Data Science
+I
+Visualizing Uncertainity in Fantasy Football Weekly Projections
+-----------------------
+This repo contains the code to create the dashboard for visualizing uncertainity in fantasy football weekly projections and the associated report, which explains the thought process behind the creation of the dashboard.
 
-## Visualizing Uncertainity in Weekly Fantasy Football Projections
+Installation
+-----------------------
 
-My final project for my data visualization course creates a dashboard to visualize the uncertainity in specific weekly players fantasy point projections. 
-The dashboard analyzes the weekly expert projections on Fantasy Pros to visualize the uncertainity in the statistical projections in terms of fantasy football points.
-Each performance statistic is modeled with a truncated normal distribution, truncated based on the low and high predicted values for each stat. Built into the predictions and therefore the assumptions for this tool are that a player plays the whole game without injury.
+### Download the source files
 
-## Modeling MPG of 1970's Cars
+* Clone this repo to your computer.
+* Navigate to where this repo is stored.
 
-The analysis and resulting model created for the fuel efficiency of 1970's cars was created as a project for my Data Science Class.
+### Install the required packages
+* Note that this project requires python 3 64 bit
+* Install the requirements using `pip install -r requirements.txt`.
 
-## Spam Email Classification
+Usage
+-----------------------
 
-For our final project, my team selected a dataset and created a model from it to answer a question that the dataset could illuminate. We used a dataset of spam emails and attempted to create a spam email classifier.
-I was the group leader for this project.
-
-## Learning Scoring Systems with Deep ReLu Networks
-
-My semester long research project for advanced machine learning is the paper "Learning Scoring Systems with Deep ReLu Networks". The paper and code sufficent to duplicate the experiments is included.
+### Start the dashboard
+* From this folder open python and run 'streamlit run main.py' and the dashboard will load in the browser.
+* The left hand side allows user to set settings which impacts point totals
+* Use the dropdown menus to select individual players point distributions and for start-sit tool.
