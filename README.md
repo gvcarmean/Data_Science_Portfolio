@@ -1,5 +1,5 @@
 # Data_Science_Portfolio
-These are projects i completed while pursuing my Masters of Science in Data Science
+These are projects completed by Greg Carmean while pursuing a Masters of Science in Data Science
 
 ## Visualizing Uncertainity in Weekly Fantasy Football Projections
 
