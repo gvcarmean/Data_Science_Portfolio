@@ -33,7 +33,7 @@ Sources
 ### RelAgg 
 -Bruno Iochins Grisci, Mathias J. Krause, Marcio Dorn. _Relevance aggregation for neural networks interpretability and knowledge discovery on tabular data_, Information Sciences, Volume 559, June **2021**, Pages 111-129, DOI: [10.1016/j.ins.2021.01.052](https://doi.org/10.1016/j.ins.2021.01.052)
 
-###relu-opt-public
+### relu-opt-public
 -```
 @article{Grimstad2019,
     author = {Grimstad, Bjarne and Andersson, Henrik},
