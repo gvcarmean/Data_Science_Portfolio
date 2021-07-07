@@ -3,7 +3,7 @@ These are projects i completed while pursuing my Masters of Science in Data Scie
 
 ## Visualizing Uncertainity in Weekly Fantasy Football Projections
 
-My final project for my data visualization course creates a dashboard to visualize the uncertainity in specific weekly players fantasy point projections. 
+A dashboard to visualize the uncertainity in specific weekly players fantasy point projections. 
 The dashboard analyzes the weekly expert projections on Fantasy Pros to visualize the uncertainity in the statistical projections in terms of fantasy football points.
 
 ## Modeling MPG of 1970's Cars
@@ -16,4 +16,4 @@ The process to generate the spam email classifier as well as its performance is 
 
 ## Learning Scoring Systems with Deep ReLu Networks
 
-My semester long research project for advanced machine learning is the paper "Learning Scoring Systems with Deep ReLu Networks". 
+The paper and the supporting code explores whether scoring systems can be learned from deep rectifier networks.
