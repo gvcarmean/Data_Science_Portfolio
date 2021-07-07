@@ -1,0 +1,9 @@
+numpy 
+pandas
+matplotlib
+seaborn
+sklearn
+scipy
+random
+IPython
+tabulate
