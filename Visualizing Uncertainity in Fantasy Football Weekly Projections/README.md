@@ -1,4 +1,4 @@
-I
+
 Visualizing Uncertainity in Fantasy Football Weekly Projections
 -----------------------
 This repo contains the code to create the dashboard for visualizing uncertainity in fantasy football weekly projections and the associated report, which explains the thought process behind the creation of the dashboard.
