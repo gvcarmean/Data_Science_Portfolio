@@ -34,15 +34,5 @@ Sources
 -Bruno Iochins Grisci, Mathias J. Krause, Marcio Dorn. _Relevance aggregation for neural networks interpretability and knowledge discovery on tabular data_, Information Sciences, Volume 559, June **2021**, Pages 111-129, DOI: [10.1016/j.ins.2021.01.052](https://doi.org/10.1016/j.ins.2021.01.052)
 
 ### relu-opt-public
--```
-@article{Grimstad2019,
-    author = {Grimstad, Bjarne and Andersson, Henrik},
-    journal = {Computers and Chemical Engineering},
-    title = {{ReLU Networks as Surrogate Models in Mixed-Integer Linear Programs}},
-    pages = {106580},
-    volume = {131},
-    year = {2019},
-    doi = {10.1016/j.compchemeng.2019.106580}
-}
-
-```
+- Bjarne Grimstad and Henrik Andersson. Relu networks as surrogate models in mixed-integer
+linear programs. Computers & Chemical Engineering, 131:106580, 2019.
